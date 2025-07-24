@@ -1,6 +1,6 @@
 # Vending Machine Project - Version 2 (Python)
 
-This project is a Python version inspired by my original Data Structures and Algorithms (DSA) project written in C.  
+This project is a Python version inspired by my original Data Structures project written in C.  
 I’m building this as part of learning Python and improving my programming skills.
 
 ## Features
